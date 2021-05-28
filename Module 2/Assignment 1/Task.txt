@@ -1,0 +1,26 @@
+  
+Maintain Efficient Process Utilization on Windows
+
+------------------Assignment 1------------------
+
+Tasks:
+1.Collect process information using the Task Viewer
+
+Solution--->
+
+-In powershell, enter command Get-Process -Name "notepad"
+
+2.Terminate a specific process using Windows PowerShell.
+
+Solution--->
+
+-Use the ID from previous task
+-In powershell, enter command taskkill /F /PID (ID from Task 1)
+
+3.Terminate multiple processes using Windows PowerShell.
+
+Solution--->
+
+-Open multiple windows in notepad to get multiple Process.
+-Repeate task 1
+-Repete task 2 with all the obtained IDs.

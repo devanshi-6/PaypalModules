@@ -1,0 +1,13 @@
+Using Logs to Help You Track Down an Issue in Windows
+
+--------------------Assignment 2---------------------
+
+Tasks:
+
+1.Updating software (VLC Update)
+
+2.Finding and deleting files (Find_and_delete)
+
+3.Modify file permissions (Changing Permission)
+
+4.Terminating specific processes (Terminate Process)
